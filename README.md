@@ -1,0 +1,1 @@
+Cwiczenie polaczenie do bazy, select, insert, update, delete
